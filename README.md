@@ -9,7 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder at Fewture-Ai 🤖
+🤵 Founder at Fewture-Ai Startup 🤖
 
 🔥 AI Chatbot & MERN Stack Consultant 
 
