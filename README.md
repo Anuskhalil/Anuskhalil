@@ -9,11 +9,11 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder at Fewture-Ai Startup 🤖
+🤵 Founder & CTO at Fewture.ai Startup 🤖
 
 🔥 AI Chatbot & MERN Stack Consultant 
 
-✨ Favorite Tech: Dialogflow CX and ES, React JS, JavaScript, Node JS, Alan AI, Flowise, Pinecone, MongoDB, Voice Flow
+✨ Favorite Tech: Dialogflow CX and ES, React JS, JavaScript, Node JS, Alan AI, Flowise, Pinecone, MongoDB, Voice Flow, RAG, Make.com, Openai, Gemini
 
 📓 I’m currently learning Generative AI and AI Chatbot... 😭
 
